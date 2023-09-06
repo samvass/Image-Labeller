@@ -6,15 +6,6 @@ This project was completed at UAB (Universitat Autonoma de Barcelona) in Spring 
 The project uses supervised learning (KNN) for labelling the type of clothing item (Shoes, Jeans, Pants, etc.)
 The project uses unsupervised learning (KMeans) for labelling the colour of the clothing item
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
 ## Features
 
 - Retrieval by Shape
