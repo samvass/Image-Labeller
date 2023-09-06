@@ -1,7 +1,5 @@
 # Image Labelling Agent for a Clothing Store
 
-[Japanese-clothing-store](https://github.com/samvass/Image-Labeller/assets/73901063/4dc4aa82-48d4-40d6-a887-48c5838115e4)
-
 ## Description
 
 This project was completed at UAB (Universitat Autonoma de Barcelona) in Spring 2023. The goal was to create an image labelling agent in order to classify clothing item images by type and colour. 
